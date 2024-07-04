@@ -58,12 +58,14 @@ public class BankInterface {
                     setup.createAccount();
                     break;
                 case "L":
-                    System.out.println("Would you like to: ");
-                    System.out.println("V)iew Balance ");
-                    System.out.println("D)eposit Money ");
-                    System.out.println("W)ithdraw Money");
-                    System.out.println("T)ransfer Money");
-                    System.out.println("Note, type V for 'View Balance', D for 'Deposit Money', W for 'Withdraw Money, T for 'Transfer money'");
+                    setup.login();
+
+//                    System.out.println("Would you like to: ");
+//                    System.out.println("V)iew Balance ");
+//                    System.out.println("D)eposit Money ");
+//                    System.out.println("W)ithdraw Money");
+//                    System.out.println("T)ransfer Money");
+//                    System.out.println("Note, type V for 'View Balance', D for 'Deposit Money', W for 'Withdraw Money, T for 'Transfer money'");
                     String transactionInput = scanner.nextLine();
                     switch (transactionInput) {
                         case "V":

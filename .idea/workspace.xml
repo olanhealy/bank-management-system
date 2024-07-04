@@ -1,94 +1,95 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="AutoImportSettings">
-    <option name="autoReloadType" value="SELECTIVE" />
+    <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9c33bc37-7e7a-4825-9441-3ade62844065" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_11_22.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_objenesis_objenesis_3_2.xml" afterDir="false" />
+    <list default="true" id="4ca40e83-0f36-47d4-85bc-1aee09792e07" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Csv/bankAccounts.CSV" beforeDir="false" afterPath="$PROJECT_DIR$/Csv/bankAccounts.CSV" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bank-management-system.iml" beforeDir="false" afterPath="$PROJECT_DIR$/bank-management-system.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/bank/project/olan/cli/BankInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bank/project/olan/cli/BankInterface.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/bank/project/olan/data/Accounts.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bank/project/olan/data/Accounts.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/bank/project/olan/data/Data.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bank/project/olan/data/Data.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/bank/project/olan/cli/BankInterfaceSetup.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bank/project/olan/cli/BankInterfaceSetup.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/groovy/bank/project/olan/data/DataSpec.groovy" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/groovy/bank/project/olan/data/DataSpec.groovy" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bank-management-system-1.0.0.jar" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/bank/project/olan/cli/BankInterface.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/bank/project/olan/cli/BankInterface.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/bank/project/olan/cli/BankInterfaceSetup.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/bank/project/olan/cli/BankInterfaceSetup.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/bank/project/olan/data/Accounts.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/bank/project/olan/data/Accounts.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/bank/project/olan/data/Data.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/bank/project/olan/data/Data.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/bank/project/olan/data/Transactions.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/bank/project/olan/data/Transactions.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="MarkdownSettingsMigration">
-    <option name="stateVersion" value="1" />
-  </component>
   <component name="MavenImportPreferences">
-    <option name="generalSettings">
-      <MavenGeneralSettings>
-        <option name="useMavenConfig" value="true" />
-      </MavenGeneralSettings>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="jdkForImporter" value="1.8 (4)" />
+      </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectId" id="2ZPPHd7zs0hBsrjWPpFdOsTBUvi" />
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2ihXW8k57GLNsNHCveKBVexJ5Nx" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.BankInterface.executor": "Run",
+    "Application.Unnamed.executor": "Run",
     "Downloaded.Files.Path.Enabled": "false",
+    "JUnit.AccountsSpec.executor": "Run",
+    "JUnit.DataSpec.authenticateUser should return false for invalid credentials.executor": "Run",
+    "JUnit.DataSpec.authenticateUser should return true for valid credentials.executor": "Run",
+    "JUnit.DataSpec.executor": "Run",
     "Repository.Attach.Annotations": "false",
     "Repository.Attach.JavaDocs": "false",
     "Repository.Attach.Sources": "false",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/olan/- Olans Stuff",
-    "project.structure.last.edited": "Modules",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/olan/Personal",
+    "project.structure.last.edited": "Global Libraries",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "com.github.copilot.settings.ApplicationConfigurable"
+    "settings.build.tools.auto.reload": "ALL",
+    "settings.editor.selected.configurable": "configurable.group.build"
   }
 }]]></component>
-  <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\olan\- Olans Stuff\07 Projects\bank-management-system\Csv" />
-      <recent name="C:\Users\olan\- Olans Stuff\07 Projects\bank-management-system" />
-      <recent name="C:\Users\olan\- Olans Stuff\07 Porjects\bank-management-system\src\main\java" />
-      <recent name="C:\Users\olan\- Olans Stuff\07 Porjects\bank-management-system" />
-      <recent name="C:\Users\olan\- Olans Stuff\07 Porjects\bank-management-system\Bank\bankmanagementsystem-proj\src\main\java\bank\project\olan\csv" />
-    </key>
-    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
-      <recent name="bank.project.olan.data" />
-      <recent name="" />
-    </key>
-  </component>
   <component name="RunManager" selected="Application.BankInterface">
-    <configuration name="BankInterface" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="BankInterface" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="/usr/lib/jvm/java-1.8.0-openjdk-amd64/jre" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
       <option name="MAIN_CLASS_NAME" value="bank.project.olan.cli.BankInterface" />
+      <module name="bank-management-system" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AccountsSpec" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="bank-management-system" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="bank.project.olan.cli.*" />
+          <option name="PATTERN" value="bank.project.olan.data.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="bank.project.olan.data" />
+      <option name="MAIN_CLASS_NAME" value="bank.project.olan.data.AccountsSpec" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -108,7 +109,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DataSpec.addAccount should add a new account to the list and save to CSV" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="DataSpec.authenticateUser should return false for invalid credentials" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="bank-management-system" />
       <extension name="coverage">
         <pattern>
@@ -118,13 +119,13 @@
       </extension>
       <option name="PACKAGE_NAME" value="bank.project.olan.data" />
       <option name="MAIN_CLASS_NAME" value="bank.project.olan.data.DataSpec" />
-      <option name="METHOD_NAME" value="addAccount should add a new account to the list and save to CSV" />
+      <option name="METHOD_NAME" value="authenticateUser should return false for invalid credentials" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DataSpec.addAccount should add a new account to the list and simulate saving to CSV" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="DataSpec.authenticateUser should return true for valid credentials" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="bank-management-system" />
       <extension name="coverage">
         <pattern>
@@ -134,73 +135,30 @@
       </extension>
       <option name="PACKAGE_NAME" value="bank.project.olan.data" />
       <option name="MAIN_CLASS_NAME" value="bank.project.olan.data.DataSpec" />
-      <option name="METHOD_NAME" value="addAccount should add a new account to the list and simulate saving to CSV" />
+      <option name="METHOD_NAME" value="authenticateUser should return true for valid credentials" />
       <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DataSpec.updateAccountsList should update the accounts list and save to CSV" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="bank-management-system" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="bank.project.olan.data.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="bank.project.olan.data" />
-      <option name="MAIN_CLASS_NAME" value="bank.project.olan.data.DataSpec" />
-      <option name="METHOD_NAME" value="updateAccountsList should update the accounts list and save to CSV" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="JetRunConfigurationType">
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
-      <option name="filePath" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.BankInterface" />
-        <item itemvalue="JUnit.DataSpec.updateAccountsList should update the accounts list and save to CSV" />
-        <item itemvalue="JUnit.DataSpec.addAccount should add a new account to the list and simulate saving to CSV" />
+        <item itemvalue="JUnit.DataSpec.authenticateUser should return false for invalid credentials" />
+        <item itemvalue="JUnit.DataSpec.authenticateUser should return true for valid credentials" />
         <item itemvalue="JUnit.DataSpec" />
-        <item itemvalue="JUnit.DataSpec.addAccount should add a new account to the list and save to CSV" />
+        <item itemvalue="JUnit.AccountsSpec" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="9c33bc37-7e7a-4825-9441-3ade62844065" name="Changes" comment="" />
-      <created>1702320657928</created>
+      <changelist id="4ca40e83-0f36-47d4-85bc-1aee09792e07" name="Changes" comment="" />
+      <created>1719943813434</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1702320657928</updated>
+      <updated>1719943813434</updated>
     </task>
     <servers />
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
-  </component>
-  <component name="XSLT-Support.FileAssociations.UIState">
-    <expand />
-    <select />
   </component>
 </project>

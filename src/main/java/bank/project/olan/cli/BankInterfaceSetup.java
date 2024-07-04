@@ -31,6 +31,24 @@ public class BankInterfaceSetup {
         data.addAccount(userAccount);
     }
 
+    public void login() {
+        System.out.println("Please provide your User ID: ");
+        String userId = scanner.nextLine();
+        System.out.printf("Please provide your password");
+        String password = scanner.nextLine();
+
+        Accounts loggedInAccount = authenticateAndGetAccount(data, userId, password);
+
+        if (loggedInAccount != null) {
+            System.out.println("Login successful!");
+            // Here you can proceed with whatever actions are needed after successful login
+            // For example, you can store loggedInAccount in a variable for further use.
+        } else {
+            System.out.println("Login failed. Invalid credentials.");
+        }
+    }
+
+
     public void viewBal() {
         //TODO
     }
